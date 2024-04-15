@@ -34,15 +34,6 @@
 		<Unit filename="Task1.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="Task10.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task11.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task12.c">
-			<Option compilerVar="CC" />
-		</Unit>
 		<Unit filename="Task2.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -53,18 +44,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Task5.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task6.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task7.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task8.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="Task9.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Tasks.h" />
