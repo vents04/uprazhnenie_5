@@ -19,7 +19,7 @@ int main()
 {
 
 //Call all task that was subscribe
-    for(int i=4;i<sizeof(TaskFctions)/sizeof(TaskFctions[0]);i++)
+    for(int i=0;i<sizeof(TaskFctions)/sizeof(TaskFctions[0]);i++)
     {
         printf("=============================\n"
                "Start Task:%d\n"
