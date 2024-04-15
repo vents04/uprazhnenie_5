@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1710764544 source:c:\project\tu\projects\template\template\task1.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task10.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task11.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task12.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task2.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task3.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task4.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task5.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task6.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task7.c
+	<stdio.h>
+
+1710764544 source:c:\project\tu\projects\template\template\task8.c
+	<stdio.h>
+
+1710764543 source:c:\project\tu\projects\template\template\task9.c
+	<stdio.h>
+
+1710764456 source:c:\project\tu\projects\template\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1710764228 c:\project\tu\projects\template\template\tasks.h
+
+1712246851 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1711999496 c:\users\legion\documents\_tu\bpe\uprazhnenie_3\tasks.h
+
+1712181410 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task10.c
+	<stdio.h>
+	"Tasks.h"
+
+1712246897 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task11.c
+	<stdio.h>
+	"Tasks.h"
+
+1712342603 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task12.c
+	<stdio.h>
+	"Tasks.h"
+
+1712178550 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1712178764 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1712179449 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task4.c
+	<stdio.h>
+	"Tasks.h"
+
+1712180007 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task5.c
+	<stdio.h>
+	"Tasks.h"
+
+1712179834 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task6.c
+	<stdio.h>
+	"Tasks.h"
+
+1712180529 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task7.c
+	<stdio.h>
+	"Tasks.h"
+
+1712180963 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task8.c
+	<stdio.h>
+	"Tasks.h"
+
+1712181193 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task9.c
+	<stdio.h>
+	"Tasks.h"
+
+1712178348 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_3\task1.c
+	<stdio.h>
+	"Tasks.h"
+
+1713192248 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tasks.h"
+
+1713191171 c:\users\legion\documents\_tu\bpe\uprazhnenie_5\tasks.h
+
+1712181410 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task10.c
+	<stdio.h>
+	"Tasks.h"
+
+1712246897 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task11.c
+	<stdio.h>
+	"Tasks.h"
+
+1712342603 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task12.c
+	<stdio.h>
+	"Tasks.h"
+
+1713189038 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task2.c
+	<stdio.h>
+	"Tasks.h"
+
+1713189467 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task3.c
+	<stdio.h>
+	"Tasks.h"
+
+1713192098 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task4.c
+	<stdio.h>
+	<stdlib.h>
+
+1713192724 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task5.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1712179834 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task6.c
+	<stdio.h>
+	"Tasks.h"
+
+1712180529 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task7.c
+	<stdio.h>
+	"Tasks.h"
+
+1712180963 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task8.c
+	<stdio.h>
+	"Tasks.h"
+
+1712181193 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task9.c
+	<stdio.h>
+	"Tasks.h"
+
+1713188320 source:c:\users\legion\documents\_tu\bpe\uprazhnenie_5\task1.c
+	<stdio.h>
+	"Tasks.h"
+
